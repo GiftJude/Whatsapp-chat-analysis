@@ -23,8 +23,9 @@ The data was been cleaned and transformed with the Power Query Editor of Power B
 No modelling was required since it was just a table
 
 ## Data analysis and visuals
-![analysis picture](https://user-images.githubusercontent.com/132891779/236887740-2076041c-94c1-4837-994d-a6f7fbc666eb.png)
-The following insights were gotten:
+![analysis picture](https://user-images.githubusercontent.com/132891779/236887740-2076041c-94c1-4837-994d-a6f7fbc666eb.png).
+
+The following insights were gotten:..
 * Mickey Money is the most active person in the group.
 * The group becomes very interactive during the late minutes of 10PM and early minutes of 11PM.
 * Febuary was the most interactive month 
