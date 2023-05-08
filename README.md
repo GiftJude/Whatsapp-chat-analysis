@@ -1,9 +1,28 @@
-# Whatsapp-chat-analysis
-This analysis was carried out to explore the activities of a whatsapp group. 
-#### The following questions were to be answered :
+# Whatsapp-chat-analysis-dashboard
+
+## Introduction 
+I noticed how much messages flooded my whatsapp at time intervals, particularly from my class group. I decided to analyse the group's activities as part of practising what i learntin data cleaning and visualisation. 
+#### Power BI concepts applied:
+* DAX concepts : custom Table and columns
+
+## Problem statement
 * Who are the most active persons?
 * When is the group very interactive?
 * Which month was the most interactive?
-#### Tools used
-* The data was extracted from a students' whatsapp group. 
-* Power BI was used for cleaning and visualization.
+* How much messages get into the group?
+
+## Data sourcing
+I downloaded the data as a csv file from the whatsapp group with the help of a whatsapp feature "Export" into my email and then to my drive.
+I extracted the data into Power BI for cleaning , analysis and visualisation.
+
+## Data Transformation
+The data was been cleaned and transformed with the Power Query Editor of Power BI. The data was in a single column , I split the required fields by delimeter, renamed the columns, changed the data types and finally filtered out blanks. Attached is the downloaded csv file
+[WhatsApp Chat with ABE 400 LEVEL j.txt](https://github.com/GiftJude/Whatsapp-chat-analysis/files/11424250/WhatsApp.Chat.with.ABE.400.LEVEL.j.txt)
+
+## Data Modelling
+No modelling was required since it was just a table
+
+## Data analysis and visuals
+![analysis picture](https://user-images.githubusercontent.com/132891779/236887740-2076041c-94c1-4837-994d-a6f7fbc666eb.png)
+
+
