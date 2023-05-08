@@ -1,7 +1,7 @@
 # Whatsapp-chat-analysis-dashboard
 
 ## Introduction 
-I noticed how much messages flooded my whatsapp at time intervals, particularly from my class group. I decided to analyse the group's activities for the past six months as part of practising what i learntin data cleaning and visualisation. 
+I noticed how much messages flooded my whatsapp at time intervals, particularly from my class group. I decided to analyse the group's activities for the past six months as part of practising what i learnt in data cleaning and visualisation. 
 #### Power BI concepts applied:
 * DAX concepts : custom Table and columns
 
